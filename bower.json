@@ -7,17 +7,19 @@
   ],
   "description": "eXelate webapps custom build of jQuery ui as a bower component.",
   "main": "jquery-ui-1.10.3.custom.js",
+  "dependencies": {
+    "jquery": ">=1.9.1"
+  },
   "keywords": [
     "jquery",
-    "jquery",
-    "ui"
+    "jquery ui",
   ],
   "license": "MIT",
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+   "test",
+    ".*",
+    "*.json",
+    "*.md",
+    "*.txt",
   ]
 }
