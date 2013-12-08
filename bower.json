@@ -12,7 +12,7 @@
   },
   "keywords": [
     "jquery",
-    "jquery ui",
+    "jquery ui"
   ],
   "license": "MIT",
   "ignore": [
@@ -20,6 +20,6 @@
     ".*",
     "*.json",
     "*.md",
-    "*.txt",
+    "*.txt"
   ]
 }
