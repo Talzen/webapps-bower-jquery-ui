@@ -1,0 +1,23 @@
+{
+  "name": "webapps-bower-jquery-ui",
+  "version": "0.0.1",
+  "homepage": "https://github.com/xl8/webapps-bower-jquery-ui",
+  "authors": [
+    "Ofer Itzhaki (oferi@exelate.com)"
+  ],
+  "description": "eXelate webapps custom build of jQuery ui as a bower component.",
+  "main": "jquery-ui-1.10.3.custom.js",
+  "keywords": [
+    "jquery",
+    "jquery",
+    "ui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
